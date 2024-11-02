@@ -36,8 +36,8 @@ Documento com descrição final do projeto O documento final do projeto é uma a
 
 Introdução: Um resumo do projeto e sua importância no contexto atual do marketing digital.
 Arquitetura Técnica: Detalhes sobre as tecnologias utilizadas, a arquitetura da aplicação e as razões para as escolhas feitas.
-Funcionalidades: Descrição detalhada de cada funcionalidade da plataforma.
-Resultados: Análise dos resultados obtidos, incluindo gráficos e métricas relevantes.
+Funcionalidades: Descrição de cada funcionalidade da plataforma.
+Resultados: Análise dos resultados obtidos.
 Reflexão sobre o Processo: Uma seção que detalha a autocrítica e as lições aprendidas.
 Planos Futuros: Discussão sobre como pretendemos expandir e melhorar a plataforma.
 Link para a documentação no GitHub A documentação do projeto está organizada em um repositório no GitHub, contendo:
