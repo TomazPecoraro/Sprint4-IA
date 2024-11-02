@@ -43,5 +43,4 @@ Planos Futuros: Discussão sobre como pretendemos expandir e melhorar a platafor
 Link para a documentação no GitHub A documentação do projeto está organizada em um repositório no GitHub, contendo:
 
 README.md: Um guia de início rápido e explicações sobre a estrutura do projeto.
-Instruções de Instalação: Passos detalhados para instalar e executar a aplicação localmente.
-Notas de Contribuição: Diretrizes para futuros colaboradores, incluindo como relatar problemas e sugerir melhorias.
+Esse que acaba de ler
