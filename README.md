@@ -44,3 +44,14 @@ Link para a documentação no GitHub A documentação do projeto está organizad
 
 README.md: Um guia de início rápido e explicações sobre a estrutura do projeto.
 Esse que acaba de ler
+
+## Integrantes do Grupo
+Tomaz de Oliveira Pecoraro – RM98499
+
+Rennan Ferreira da Cruz – RM99364
+
+Jaisy Cibele Alves – RM552269
+
+Luiz Felipe Camargo Prendin – RM552475
+
+Gabriel Amâncio - RM97936
