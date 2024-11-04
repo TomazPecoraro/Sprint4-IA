@@ -32,23 +32,6 @@ Durante o desenvolvimento, enfrentamos alguns desafios, incluindo:
 - **Link do Vídeo**:  https://youtu.be/oaOTidATw54
 - **GitHub**: https://github.com/TomazPecoraro/Sprint4-IA)
 
-
-## 4. Entregáveis
-Vídeo de apresentação O vídeo de apresentação foi projetado para ser envolvente e informativo, com uma duração de 5 minutos. Começa com uma introdução ao problema que o AdOptimize resolve, segue com uma demonstração das principais funcionalidades e termina com uma análise dos resultados alcançados. O vídeo foi editado para incluir gráficos e animações que ajudam a visualizar os dados e resultados.
-
-Documento com descrição final do projeto O documento final do projeto é uma apresentação abrangente que inclui:
-
-Introdução: Um resumo do projeto e sua importância no contexto atual do marketing digital.
-Arquitetura Técnica: Detalhes sobre as tecnologias utilizadas, a arquitetura da aplicação e as razões para as escolhas feitas.
-Funcionalidades: Descrição de cada funcionalidade da plataforma.
-Resultados: Análise dos resultados obtidos.
-Reflexão sobre o Processo: Uma seção que detalha a autocrítica e as lições aprendidas.
-Planos Futuros: Discussão sobre como pretendemos expandir e melhorar a plataforma.
-Link para a documentação no GitHub A documentação do projeto está organizada em um repositório no GitHub, contendo:
-
-README.md: Um guia de início rápido e explicações sobre a estrutura do projeto.
-Esse que acaba de ler
-
 ## Integrantes do Grupo
 Tomaz de Oliveira Pecoraro – RM98499
 
