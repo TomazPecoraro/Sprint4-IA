@@ -23,8 +23,10 @@ Melhorias: Implementação de relatórios personalizáveis e aprimoramento da in
 Feedback e Integrações Futuras: Evoluir com base no feedback dos usuários e novas inovações do mercado.
 
 ## Links
-Link do Vídeo 
-Link GitHub
+Link do Vídeo: https://youtu.be/oaOTidATw54
+
+
+Link GitHub: https://github.com/TomazPecoraro/Sprint4-IA
 
 ## 4. Entregáveis
 Vídeo de apresentação O vídeo de apresentação foi projetado para ser envolvente e informativo, com uma duração de 5 minutos. Começa com uma introdução ao problema que o AdOptimize resolve, segue com uma demonstração das principais funcionalidades e termina com uma análise dos resultados alcançados. O vídeo foi editado para incluir gráficos e animações que ajudam a visualizar os dados e resultados.
